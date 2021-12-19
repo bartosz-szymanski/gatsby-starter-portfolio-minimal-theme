@@ -4,15 +4,15 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Jestem Milena Starzec",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "I jestem założycielką ",
+    "highlight": "MS TRANSLATIONS",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Jeżeli potrzebujesz tłumaczenia z języka polskiego na niemiecki, lub odwrotnie to jesteś we właściwym miejscu.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": ["LinkedIn", "Mail"],
+    "showIcons": true
   }
 }
