@@ -1,56 +1,42 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "Przyjemna współpraca",
       "image": {
         "src": "../../images/joystick.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "Niezawodność",
       "image": {
         "src": "../../images/notebook.png",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "Dokładność i staranność",
       "image": {
         "src": "../../images/nail-polish.png",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
-      "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Animations",
+      "label": "Doskonała jakość",
       "image": {
         "src": "../../images/gem-stone.png",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "Szybka wycena",
       "image": {
         "src": "../../images/mobile-phone.png",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
-      "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Blazing Fast",
+      "label": "Błyskawiczna realizacja",
       "image": {
         "src": "../../images/high-voltage.png",
         "alt": ""
@@ -59,7 +45,7 @@
   ],
   "button": {
     "visible": true,
-    "label": "+ Load More",
-    "initiallyShownInterests": 5
+    "label": "Więcej",
+    "initiallyShownInterests": 6
   }
 }

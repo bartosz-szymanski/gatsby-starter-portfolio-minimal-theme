@@ -2,46 +2,40 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "Tłumaczenia",
+      "title": "Tłumaczenia zwykłe",
+      "description": "Od kilku lat zajmuję się sporządzaniem tłumaczeń „zwykłych” (bez pieczęci) z języka niemieckiego na\njęzyk polski i odwrotnie – moją specjalizacją są teksty marketingowe oraz wszelkie dokumenty\nurzędowe, sądowe i akty notarialne.",
+      "tags": [],
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup"
+        "alt": "Photo by Clément H on Unsplash",
+        "title": "Photo by Clément H on Unsplash"
       },
       "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
-        }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "Tłumaczenia",
+      "title": "Tłumaczenia przysięgłe",
+      "description": "Jestem również tłumaczką przysięgłą języka polskiego w Niemczech i figuruję w rejestrze tłumaczy\nprzysięgłych zaprzysiężonych w Niemczech(link poniżej). To daje mi możliwość sporządzania\ntłumaczeń poświadczonych (potocznie nazywanych przysięgłymi) – tzn. tych z pieczęcią – w obu\nkierunkach. I tutaj warto wspomnieć, że tłumaczenia poświadczone wykonane przez tłumaczy\nprzysięgłych zaprzysiężonych w Polsce nie zawsze są honorowane przez niemieckie instytucje.\nDlatego też bezpieczniej jest przetłumaczyć dokumenty mające zostać przedłożone w Niemczech u\ntłumacza przysięgłego zaprzysiężonego w Niemczech.",
+      "tags": [],
       "image": {
         "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "alt": "Photo by Kelly Sikkema on Unsplash",
+        "title": "Photo by Kelly Sikkema on Unsplash"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "external",
+          "url": "https://www.justiz-dolmetscher.de/Recherche/de/Suchen"
         }
       ]
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "url": "/"
   }
 }

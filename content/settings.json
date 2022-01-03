@@ -1,10 +1,10 @@
 {
   "siteMetadata": {
     "language": "pl",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "siteUrl": "milenastarzec.pl",
+    "title": "MS Translations - Milena Starzec",
+    "titleTemplate": "MS Translations",
+    "description": "MS Translations",
     "author": "Konstantin Münster",
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
@@ -14,10 +14,10 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "MS Translations" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
+        { "label": "O mnie", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
         { "label": "Features", "url": "/#features" },
         { "label": "Github", "url": "/#github" }
@@ -28,8 +28,6 @@
         "url": "/resume.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
       ]
     },
     "featureToggles": {
