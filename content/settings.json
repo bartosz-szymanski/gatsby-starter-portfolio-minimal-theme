@@ -18,9 +18,9 @@
     "navigation": {
       "header": [
         { "label": "O mnie", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Szczegóły", "url": "/#details" },
+        { "label": "Oferta", "url": "/#offer" },
+        { "label": "Kontakt", "url": "/#contact" }
       ],
       "ctaButton": {
         "openNewTab": true,
