@@ -24,8 +24,8 @@
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
-        "url": "/resume.pdf"
+        "label": "Cennik",
+        "url": "/cennik.pdf"
       },
       "footer": [
       ]
