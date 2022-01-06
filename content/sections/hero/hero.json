@@ -1,16 +1,16 @@
 {
-  "intro": "Hej",
+  "intro": "Hej!",
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "Jestem Milena Starzec",
+  "title": "Nazywam się Milena Starzec",
   "subtitle": {
-    "prefix": "I jestem założycielką ",
+    "prefix": "i jestem założycielką ",
     "highlight": "MS TRANSLATIONS",
     "suffix": "."
   },
-  "description": "Jeżeli potrzebujesz tłumaczenia z języka polskiego na niemiecki, lub odwrotnie to jesteś we właściwym miejscu.",
+  "description": "Jeżeli potrzebujesz tłumaczenia z języka polskiego na niemiecki lub odwrotnie, to jesteś we właściwym miejscu.",
   "socialProfiles": {
     "from": ["LinkedIn", "Mail"],
     "showIcons": true
